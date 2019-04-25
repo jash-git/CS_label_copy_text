@@ -1,0 +1,9 @@
+C:\Users\jashliao\Desktop\CS_label_copy_text\CS_label_copy_text\bin\Debug\CS_label_copy_text.exe.config
+C:\Users\jashliao\Desktop\CS_label_copy_text\CS_label_copy_text\bin\Debug\CS_label_copy_text.exe
+C:\Users\jashliao\Desktop\CS_label_copy_text\CS_label_copy_text\bin\Debug\CS_label_copy_text.pdb
+C:\Users\jashliao\Desktop\CS_label_copy_text\CS_label_copy_text\obj\Debug\CS_label_copy_text.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\CS_label_copy_text\CS_label_copy_text\obj\Debug\CS_label_copy_text.Form1.resources
+C:\Users\jashliao\Desktop\CS_label_copy_text\CS_label_copy_text\obj\Debug\CS_label_copy_text.Properties.Resources.resources
+C:\Users\jashliao\Desktop\CS_label_copy_text\CS_label_copy_text\obj\Debug\CS_label_copy_text.csproj.GenerateResource.Cache
+C:\Users\jashliao\Desktop\CS_label_copy_text\CS_label_copy_text\obj\Debug\CS_label_copy_text.exe
+C:\Users\jashliao\Desktop\CS_label_copy_text\CS_label_copy_text\obj\Debug\CS_label_copy_text.pdb
